@@ -1,2 +1,7 @@
 name: Climate Change Checkup
 pygments: true
+
+safe: false
+assets:
+  compress:
+    css: scss
